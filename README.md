@@ -1,0 +1,1 @@
+This repository contains implementations and experiments completed while learning PyTorch, including custom training pipelines, GPU acceleration, regularization, hyperparameter optimization with Optuna, and CNN-based image classification
